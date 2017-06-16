@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.tile {
+  float: left;
+  height: 5px;
+  width: 5px;
+  background-color: transparent;
+  transition: background-color 1s ease;
+  border-radius: 5px;
+}
